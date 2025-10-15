@@ -45,8 +45,3 @@ O projeto reforçou conceitos sobre:
 - **Lucas Nascimento** – RGM: **38771896**
 
 ---
-
-## 📸 Prévia das Telas (exemplo)
-
-> Adicione aqui as capturas de tela do app, conforme solicitado na entrega.
-
